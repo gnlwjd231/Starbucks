@@ -1,2 +1,4 @@
-# Starbucks
-Hello World
+# Starbucks web page
+  
+패스트캠퍼스 온라인 강의를 시청하며 따라 만든 프로젝트입니다.
+해당 프로젝트는 아래 링크에서 확인 해 볼 수 있습니다.
